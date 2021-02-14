@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://www.spkcomunicacion.com/wp-content/uploads/2016/12/oferta-programador-web-soria.jpg
+![alt text](https://www.spkcomunicacion.com/wp-content/uploads/2016/12/oferta-programador-web-soria.jpg)
+
