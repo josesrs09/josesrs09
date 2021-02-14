@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible.
+
 <!--
 **josesrs09/josesrs09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +20,4 @@ Here are some ideas to get you started:
 
 🛠️ Languages and Tools:
 
-JavaScript React Redux Nodejs Express.js MongoDB Firebase Socket.io Meteor Next.js Material_UI Bootstrap SCSS HTML5 CSS3 C++ Heroku Netlify Vercel Git GitHub Gitlab Ubuntu
+JavaScript  Angular Ionic Flutter Redux Nodejs Express.js MongoDB Firebase Socket.io Material_UI Bootstrap SCSS HTML5 CSS3 Heroku Git GitHub Gitlab 
