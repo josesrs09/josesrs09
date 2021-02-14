@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 ![alt text](https://www.spkcomunicacion.com/wp-content/uploads/2016/12/oferta-programador-web-soria.jpg)
 
+🛠️ Languages and Tools:
+
+JavaScript React Redux Nodejs Express.js MongoDB Firebase Socket.io Meteor Next.js Material_UI Bootstrap SCSS HTML5 CSS3 C++ Heroku Netlify Vercel Git GitHub Gitlab Ubuntu
