@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 🛠️ Languages and Tools:
 
-JavaScript  Angular Ionic Flutter Redux Nodejs Express.js MongoDB Firebase Socket.io Material_UI Bootstrap SCSS HTML5 CSS3 Heroku Git GitHub Gitlab 
+JavaScript  Angular Ionic Redux Nodejs Express.js MongoDB Firebase Socket.io Material_UI Bootstrap SCSS HTML5 CSS3 Heroku Git GitHub Gitlab 
