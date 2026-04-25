@@ -1,0 +1,6 @@
+{
+  "name": "dgii-enterprise-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Angular-style frontend structure for DGII enterprise platform"
+}
